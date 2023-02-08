@@ -21,11 +21,11 @@ This is a Breast Cancer Classifier using Machine Learning.
 <h2>MALIGNANT TUMOUR</h2>
 <ul>
   <li> Cancerous
-  <li> Capsulated
-  <li> Non - invasive
-  <li> Slow growing
-  <li> Do not spread to other parts of the body
-  <li> Cells are normal
+  <li> Non-Capsulated
+  <li> Invasive
+  <li> Fast growing
+  <li> Spread to other parts of the body
+  <li> Cells are abnormal
 </ul>
 </div>
 
