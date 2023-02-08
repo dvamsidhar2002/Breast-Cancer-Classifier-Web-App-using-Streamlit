@@ -1,6 +1,18 @@
 # Breast-Cancer-Classifier
 This is a Breast Cancer Classifier using Machine Learning.
 
+![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
+![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
+![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-cherryred.svg)
+
+Link to the web app : 
+
+<a href="https://dvamsidhar2002-breast-c-breast-cancer-classifier-web-app-xdlnez.streamlit.app/">
+    <img src="https://img.shields.io/badge/Breast Cancer Classifier-0A0A0A?style=plastic&logo=HERE&logoColor=white" height=20></a>
+
+
+
 ### There are two types of tumours detected in human body : 
 
 <div>
