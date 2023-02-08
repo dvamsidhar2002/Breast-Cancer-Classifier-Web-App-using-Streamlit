@@ -20,7 +20,7 @@ This is a Breast Cancer Classifier using Machine Learning.
 <img align = 'right' src = "Malignant Tumour.png" alt="Malignant tumour" height=230 width=200>
 <h2>MALIGNANT TUMOUR</h2>
 <ul>
-  <li> Non - Cancerous
+  <li> Cancerous
   <li> Capsulated
   <li> Non - invasive
   <li> Slow growing
