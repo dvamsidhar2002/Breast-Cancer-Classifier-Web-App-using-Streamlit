@@ -51,4 +51,5 @@ B[Step 1 : Import Libraries/Modules in the workspace] --> C[Step 2 : Import the 
 C[Step 2 : Import the collected data into the workspace] --> D[Step 3 : Data Preprocessing]
 D[Step 3 : Data Preprocessing] --> E[Step 4 : Perform EDA by visualizing the data]
 E[Step 4 : Perform EDA by visualizing the data] --> F[Step 5 : Train ML model using LOGISTIC REGRESSION]
+F[Step 5 : Train ML model using LOGISTIC REGRESSION] --> G[Step 6 : Deploy ML model as a Web App]
 ```
