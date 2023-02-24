@@ -43,7 +43,7 @@ def main():
     diagnosis = ''
     
     # getting the input data from the user
-    if st.button('Heart Disease Test Result : '):
+    if st.button('Test Result : '):
         diagnosis = breast_cancer_classifer([mean_radius,mean_texture,mean_perimeter,mean_area,mean_smoothness])
         
     st.success(diagnosis)
